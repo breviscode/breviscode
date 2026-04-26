@@ -18,6 +18,4 @@ Decoration:     212px
 
 # BrevisCode
 
----
-
 Simple, easy to read, and well-commented code.
