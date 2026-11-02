@@ -1,4 +1,4 @@
-![Header](breviscode-logo.png)
+![Header](breviscode-logo.jpg)
 
 # BrevisCode
 
